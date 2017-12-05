@@ -1,0 +1,1 @@
+C:\Users\parlinr\Desktop\test\ClientApp\ClientApp.csproj;x86

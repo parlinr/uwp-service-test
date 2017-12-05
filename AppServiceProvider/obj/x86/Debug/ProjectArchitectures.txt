@@ -1,0 +1,2 @@
+C:\Users\parlinr\Desktop\test\AppServiceProvider\AppServiceProvider.csproj;x86
+C:\Users\parlinr\Desktop\test\MyAppService\MyAppService.csproj;x86
